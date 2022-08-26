@@ -9,7 +9,7 @@ resume: https://mouthful.github.io/markdown-cv/
 ---
 
 ## Biography
-I am currently a fourth-year PhD candidate at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (XJTU). I am also a member of joint Ph.D. program between XJTU and MSRA, advised by Prof. [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1046/1229.htm) and Dr. [Bin Shao](https://www.binshao.info/). Before that, I received my Bachelor degree in 2019 from XJTU. My [Resume](https://mouthful.github.io/markdown-cv/).
+I am currently a fourth-year PhD candidate at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (XJTU). I am also a member of joint Ph.D. program between XJTU and MSRA, advised by Prof. [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1046/1229.htm) and Dr. [Bin Shao](https://www.binshao.info/). Before that, I received my Bachelor degree in 2019 from XJTU. Here is my [Resume](https://mouthful.github.io/markdown-cv/).
 
 ## Education
 
